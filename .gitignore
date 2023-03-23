@@ -49,4 +49,4 @@ yarn.lock
 .DS_Store
 
 # Ignore ESLint files
-.eslintcache
+.eslintcache #
